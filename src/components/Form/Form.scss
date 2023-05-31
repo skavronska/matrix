@@ -1,0 +1,23 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 10px;
+}
+
+.label {
+  margin-top: 15px;
+}
+
+.MuiInputBase-input {
+  background: white;
+}
+
+.MuiTextField-root {
+  background: white;
+}
+
+#form_btn {
+  width: 100%;
+  margin-top: 15px;
+}
